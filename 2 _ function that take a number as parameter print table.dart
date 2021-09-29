@@ -1,5 +1,5 @@
 void main(){
-  //loop  
+  //function call
     table(8,1,10);
 }
 // function
